@@ -7,3 +7,11 @@ This is a self-hosted bot that acts as a a regular Xbox 360 controller on the ho
 
 ## What do I use it for?
 This tool is perfect for streams such as 'Twitch Plays Pokemon' but where you want to very directly limit whose in control, i.e. a discord community! I intend to make it possible to set a role limit or channel limit on it in the future.
+
+
+## Where do I add my token?
+When you have created a discord application and bot you need to add your token to the bot, luckily you don't need to touch any code for this.
+
+All you have to do is to go to your appdata\roaming, add a folder called BotToken and then add your token in there saved within a txt file, the software will automatically grab the token from there.
+
+`C:\Users\USER\AppData\Roaming\BotToken\token.txt`
