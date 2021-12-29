@@ -15,3 +15,7 @@ When you have created a discord application and bot you need to add your token t
 All you have to do is to go to your appdata\roaming, add a folder called BotToken and then add your token in there saved within a txt file, the software will automatically grab the token from there.
 
 `C:\Users\USER\AppData\Roaming\BotToken\token.txt`
+
+## What is coming?
+I am going to add the ability to limit the bot to certain roles or a Channel, this will arrive in the coming weeks/months
+[check milestones for more ](https://github.com/Wizard-Jo/DiscordXboxController/milestones)
