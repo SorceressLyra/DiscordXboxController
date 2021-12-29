@@ -1,6 +1,17 @@
 # Discord Xbox Controller
 This is a self-hosted bot that acts as a a regular Xbox 360 controller on the host PC.
 
+## How do I use it?
+The bot itself operates through slash commands in discord, every button an xbox 360 controller has, the bot has!
+![image](https://user-images.githubusercontent.com/20424962/147700100-be59187a-bf08-452d-abcc-0fcf3b1a12a6.png)
+
+The commands have a few parameters: `/button button:X Button Duration:2`
+
+
+The thumbsticks are accessed through `/axis axis direction duration strength` where you define which stick and direction furthermore optionally the duration and tilt
+
+While it is not implemented yet, I plan to add a button limiter to allow you to disable things such as the start button and such so people won't quit the game for you.
+
 ## Notes about this software
 * You need to host this bot yourself, which also need you need to create a bot in the [Discord Developer Portal](https://discord.com/developers/applications)
 * I do not take responsiblity of any problems this can cause on your device, this has only been tested on a relatively small scale and I'm not super familar with Discord bots nor ViGem
@@ -21,5 +32,4 @@ All you have to do is to go to your appdata\roaming, add a folder called BotToke
 
 
 ## What is coming?
-I am going to add the ability to limit the bot to certain roles or a Channel, this will arrive in the coming weeks/months
 [check milestones for more ](https://github.com/Wizard-Jo/DiscordXboxController/milestones)
