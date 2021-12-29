@@ -32,7 +32,7 @@ namespace DiscordXboxController
         {
             var discord = new DiscordClient(new DiscordConfiguration()
             {
-                Token = JoWorks.Data.AppdataStorage.ReadFromAppdata("BotToken", "token.dat"),
+                Token = JoWorks.Data.AppdataStorage.ReadFromAppdata("BotToken", "token.txt"),
                 TokenType = TokenType.Bot,
                 Intents = DiscordIntents.AllUnprivileged
             });
