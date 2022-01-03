@@ -1,6 +1,8 @@
 # Discord Xbox Controller
 This is a self-hosted bot that acts as a a regular Xbox 360 controller on the host PC.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A71V8FT)
+
 ## How do I use it?
 The bot itself operates through slash commands in discord, every button an xbox 360 controller has, the bot has!
 ![image](https://user-images.githubusercontent.com/20424962/147700100-be59187a-bf08-452d-abcc-0fcf3b1a12a6.png)
